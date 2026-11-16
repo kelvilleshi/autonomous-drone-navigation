@@ -26,12 +26,12 @@ Prerequisites
 - Python 3.9 or newer
 - A graphical desktop session to display the Matplotlib window
 Installation
-git clone https://github.com/YOUR_USERNAME/autonomous-drone-navigation.git
+git clone https://github.com/kelvilleshi/autonomous-drone-navigation.git
 cd autonomous-drone-navigation
 python3 -m venv .venv
 source .venv/bin/activate
 pip install numpy matplotlib
-Replace YOUR_USERNAME with your GitHub username.
+
 
 Windows: Activate the environment using .venv\Scripts\activate and use python in place of python3.
 Run the simulation
